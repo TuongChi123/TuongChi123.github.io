@@ -18,7 +18,7 @@ repository       : "TuongChi123/TuongChi123.github.io"
 
 author:
   # Biographic information
-  avatar         : "profile.png"
+  avatar: "/images/profile.png"
   name           : "Tom Nguyen"
   pronouns       : 
   bio            : "Computer Science Student"
