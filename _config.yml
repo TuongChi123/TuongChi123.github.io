@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Tom Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Science Student"
+  location         : "Houston"
+  employer         : "University of Houston"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tcnguy40@cougarnet.uh.edu" 
 
   # Academic websites
   academia         : # URL
