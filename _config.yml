@@ -18,12 +18,12 @@ repository       : "TuongChi123/TuongChi123.github.io"
 
 author:
   # Biographic information
-  avatar         : "/images/profile.png"
+  avatar         : "profile.png"
   name           : "Tom Nguyen"
   pronouns       : 
   bio            : "Computer Science Student"
   location       : "Houston"
-  employer       : "University of Houston"
+  employer       : employer: '<a href="https://cs.uh.edu">University of Houston</a>'
   uri            : "/Resume.pdf"
   email          : "tcnguy40@cougarnet.uh.edu"
   # Academic websites
