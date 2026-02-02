@@ -17,14 +17,13 @@ baseurl          : ""
 repository       : "TuongChi123/TuongChi123.github.io"
 
 author:
-  # Biographic information
-  avatar         : "profile.png"
+  avatar         : "/images/profile.png"
   name           : "Tom Nguyen"
   pronouns       : 
   bio            : "Computer Science Student"
   location       : "Houston"
-  employer       : '<a href="https://cs.uh.edu">University of Houston</a>'
-  uri            : "/Resume.pdf"
+  employer       : 'University of Houston'
+  uri            : "https://cs.uh.edu"
   email          : "tcnguy40@cougarnet.uh.edu"
   # Academic websites
  
@@ -32,18 +31,12 @@ author:
 
   github           : "TuongChi123"
  
-  # Social media
+  
   
   linkedin         : "tuong-nguyen-81334924b"
  
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -109,10 +102,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4"
   google:
-    tracking_id          :
-
+    tracking_id          : "G-75LZJ0X5QS"
 
 # Reading Files
 include:

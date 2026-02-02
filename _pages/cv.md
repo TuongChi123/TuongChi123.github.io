@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.S. in Computer Science**, University of Houston, Expected June 2026
+  * Minor in Mathematics
+  * Relevant Coursework: Software as a Service (COSC 4355), Data Structures, Algorithms
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Student Developer**, University of Houston
+  * Currently developing a professional portfolio website using Jekyll and GitHub Pages
+  * Implementing Google Analytics 4 for real-time traffic monitoring
+  * Maintaining version control and project documentation via GitHub
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** C++, JavaScript, HTML/CSS
+* **Web Development:** Jekyll, GitHub Pages, SaaS architecture
+* **Tools:** Git, Google Analytics 4, GitHub Actions
+* **Hardware:** PC Building, System Optimization
+
+Projects
+======
+* **Full-Stack Web Application:** Developed a web app integrated with a GitHub repository
+* **Personal Portfolio:** Built a data-driven academic website for professional networking
 
 Publications
 ======
@@ -59,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, University of Houston Computer Science Department
