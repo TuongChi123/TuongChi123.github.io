@@ -24,7 +24,7 @@ author:
   bio            : "Computer Science Student"
   location       : "Houston"
   employer       : "University of Houston"
-  uri            : 
+  uri            : "/Resume.pdf"
   email          : "tcnguy40@cougarnet.uh.edu"
   # Academic websites
   academia         : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "TuongChi123"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "tuong-nguyen-81334924b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
